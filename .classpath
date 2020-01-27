@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="/Librairies/Spigot/spigot-1.13.2.jar"/>
 	<classpathentry kind="lib" path="/Librairies/AYPI/AYPI.V1.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/allan/Desktop/spigot-1.15.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
